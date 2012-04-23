@@ -6,3 +6,5 @@
 MarkerLabeler.js uses HTML5 Canvas to place markers over dots on your paper.
 
 You can use red and blue ink to quickly label two different layers.
+
+Use black ink to write descriptions and notes.
